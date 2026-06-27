@@ -63,9 +63,6 @@ Interested in software development and always looking for opportunities to learn
 # Projects
 
 ## Escape Room Challenge
-
-**University Mini Project**
-
 **Java • Android Studio • SQLite**
 
 Developed a puzzle-based Android application featuring user registration, login, three interactive challenge games, progress tracking, and SQLite database integration. Secured **🥉 3rd Prize** among **300+ participating teams** at the university mini project expo.
@@ -73,9 +70,6 @@ Developed a puzzle-based Android application featuring user registration, login,
 ---
 
 ## Complaint Management System
-
-**Academic Project**
-
 **Java • JSP • Servlets • JDBC • MySQL**
 
 Developed a web-based complaint management system supporting secure user authentication, complaint registration, CRUD operations, and MySQL database connectivity using JDBC.
@@ -83,9 +77,6 @@ Developed a web-based complaint management system supporting secure user authent
 ---
 
 ## Interactive Memory Card Game
-
-**Frontend Mini Project**
-
 **HTML5 • CSS3 • JavaScript • Local Storage**
 
 Built an interactive memory card game featuring dark/light mode, move counter, timer, best score tracking, and Local Storage to preserve user preferences and recent game history.
@@ -93,9 +84,6 @@ Built an interactive memory card game featuring dark/light mode, move counter, t
 ---
 
 ## Smart Home Security System
-
-**IoT Project**
-
 **Python • Raspberry Pi • OpenCV**
 
 Developed a Raspberry Pi-based smart home security system using face recognition and intrusion detection. The system automatically sends SMS alerts whenever an unknown face is detected, providing real-time home monitoring.
@@ -103,9 +91,6 @@ Developed a Raspberry Pi-based smart home security system using face recognition
 ---
 
 ## Smart Temperature Control Jacket
-
-**Embedded Systems Project**
-
 **C • Arduino Nano • DHT11 Sensor • Peltier Module**
 
 Designed a smart wearable jacket capable of automatically heating or cooling based on the surrounding temperature using a DHT11 sensor, Arduino Nano, and Peltier module for real-time temperature regulation.
