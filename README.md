@@ -60,37 +60,51 @@ Interested in software development and always looking for opportunities to learn
 
 ---
 
-# Projects
+# Featured Projects
 
 ## Escape Room Challenge
 **Java • Android Studio • SQLite**
 
-Developed a puzzle-based Android application featuring user registration, login, three interactive challenge games, progress tracking, and SQLite database integration. Secured **🥉 3rd Prize** among **300+ participating teams** at the university mini project expo.
+- Developed an Android puzzle game with user registration and login.
+- Built three interactive challenge games with a hint system.
+- Implemented progress tracking using SQLite database.
+- Won **🥉 3rd Prize** among **300+ teams** at the university mini project expo.
 
 ---
 
 ## Complaint Management System
 **Java • JSP • Servlets • JDBC • MySQL**
 
-Developed a web-based complaint management system supporting secure user authentication, complaint registration, CRUD operations, and MySQL database connectivity using JDBC.
+- Developed a web-based complaint registration and tracking system.
+- Implemented secure user authentication and CRUD operations.
+- Integrated MySQL database using JDBC connectivity.
+- Built using Java EE technologies with JSP and Servlets.
 
 ---
 
 ## Interactive Memory Card Game
 **HTML5 • CSS3 • JavaScript • Local Storage**
 
-Built an interactive memory card game featuring dark/light mode, move counter, timer, best score tracking, and Local Storage to preserve user preferences and recent game history.
+- Developed an interactive memory card matching game.
+- Added dark/light mode with saved user preferences.
+- Implemented timer, move counter, and best score tracking.
+- Stored game history and settings using Local Storage.
 
 ---
 
 ## Smart Home Security System
 **Python • Raspberry Pi • OpenCV**
 
-Developed a Raspberry Pi-based smart home security system using face recognition and intrusion detection. The system automatically sends SMS alerts whenever an unknown face is detected, providing real-time home monitoring.
+- Developed a Raspberry Pi-based smart home security system.
+- Implemented face recognition and intrusion detection.
+- Sent SMS alerts whenever an unknown face was detected.
+- Enabled real-time monitoring using computer visio
 
 ---
 
 ## Smart Temperature Control Jacket
 **C • Arduino Nano • DHT11 Sensor • Peltier Module**
 
-Designed a smart wearable jacket capable of automatically heating or cooling based on the surrounding temperature using a DHT11 sensor, Arduino Nano, and Peltier module for real-time temperature regulation.
+- Built a smart jacket with automatic temperature regulation.
+- Monitored ambient temperature using a DHT11 sensor.
+- Controlled heating and cooling using a Peltier module.
