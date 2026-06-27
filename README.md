@@ -60,57 +60,52 @@ Interested in software development and always looking for opportunities to learn
 
 ---
 
-## Featured Projects
+# Projects
 
-### Escape Room Challenge
+## Escape Room Challenge
 
-*Java · Android Studio · SQLite*
+**University Mini Project**
 
-- Puzzle-based Android application with user registration and login.
-- Three interactive challenge games with progress tracking.
-- Unlocks the final page after completing two challenges.
-- Won **🥉 3rd Prize** among 300+ teams at the university mini project expo.
+**Java • Android Studio • SQLite**
 
----
-
-### Complaint Management System
-
-*Java · JSP · Servlets · JDBC · MySQL*
-
-- Web-based complaint registration and tracking system.
-- Supports user authentication and CRUD operations.
-- Integrated MySQL database using JDBC.
-- Built using Java EE technologies.
+Developed a puzzle-based Android application featuring user registration, login, three interactive challenge games, progress tracking, and SQLite database integration. Secured **🥉 3rd Prize** among **300+ participating teams** at the university mini project expo.
 
 ---
 
-### Interactive Memory Card Game
+## Complaint Management System
 
-*HTML5 · CSS3 · JavaScript · Local Storage*
+**Academic Project**
 
-- Interactive memory game with dark and light theme support.
-- Tracks moves, timer, and best score.
-- Saves user preferences and recent game history.
-- Responsive interface using Local Storage.
+**Java • JSP • Servlets • JDBC • MySQL**
 
----
-
-### Smart Home Security System
-
-*Python · Raspberry Pi · OpenCV*
-
-- Raspberry Pi-based home security system with face recognition.
-- Detects unauthorized visitors using computer vision.
-- Sends SMS alerts when an unknown face is detected.
-- Provides real-time monitoring for enhanced home security.
+Developed a web-based complaint management system supporting secure user authentication, complaint registration, CRUD operations, and MySQL database connectivity using JDBC.
 
 ---
 
-### Smart Temperature Control Jacket
+## Interactive Memory Card Game
 
-*C · Arduino Nano · DHT11 · Peltier Module*
+**Frontend Mini Project**
 
-- Smart wearable that automatically regulates temperature.
-- Detects surrounding temperature using a DHT11 sensor.
-- Uses a Peltier module for automatic heating and cooling.
-- Arduino Nano controls the complete temperature regulation system.
+**HTML5 • CSS3 • JavaScript • Local Storage**
+
+Built an interactive memory card game featuring dark/light mode, move counter, timer, best score tracking, and Local Storage to preserve user preferences and recent game history.
+
+---
+
+## Smart Home Security System
+
+**IoT Project**
+
+**Python • Raspberry Pi • OpenCV**
+
+Developed a Raspberry Pi-based smart home security system using face recognition and intrusion detection. The system automatically sends SMS alerts whenever an unknown face is detected, providing real-time home monitoring.
+
+---
+
+## Smart Temperature Control Jacket
+
+**Embedded Systems Project**
+
+**C • Arduino Nano • DHT11 Sensor • Peltier Module**
+
+Designed a smart wearable jacket capable of automatically heating or cooling based on the surrounding temperature using a DHT11 sensor, Arduino Nano, and Peltier module for real-time temperature regulation.
