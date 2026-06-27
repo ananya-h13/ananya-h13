@@ -21,33 +21,40 @@ Interested in software development and always looking for opportunities to learn
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">💻 Programming Languages</h3>
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R"/>
+<img src="https://img.shields.io/badge/Java-F7C6B7?style=flat-square&logo=openjdk&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-C8F2EC?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-CDEBFF?style=flat-square&logo=cplusplus&logoColor=black"/>
+<img src="https://img.shields.io/badge/R-D8D5F7?style=flat-square&logo=r&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-FFF5B5?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="center">🌐 Web Development</h3>
+### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://img.shields.io/badge/HTML5-FDE1B8?style=flat-square&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-BDE4FF?style=flat-square&logo=css3&logoColor=black"/>
 </p>
 
-<h3 align="center">📱 Mobile Development</h3>
+### 📱 Mobile Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://img.shields.io/badge/Android%20Studio-D8F4D2?style=flat-square&logo=androidstudio&logoColor=black"/>
 </p>
 
-<h3 align="center">🗄️ Database</h3>
+### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://img.shields.io/badge/MySQL-C9F3F5?style=flat-square&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQLite-D8D5F7?style=flat-square&logo=sqlite&logoColor=black"/>
 </p>
 
-<h3 align="center">🧰 Development Tools</h3>
+### 🧰 Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Git-F9D2C8?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-EDEDED?style=flat-square&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-D8D5F7?style=flat-square&logo=visualstudiocode&logoColor=black"/>
 </p>
