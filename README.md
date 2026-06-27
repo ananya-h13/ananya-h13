@@ -127,7 +127,7 @@ Interested in software development and always looking for opportunities to learn
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
