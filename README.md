@@ -10,7 +10,7 @@ Interested in software development and always looking for opportunities to learn
 
 ---
 
-## 🌸 About Me
+## About Me
 
 - 🎓 Computer Science and Information Technology student at Presidency University, Bengaluru.
 - 💻 Interested in Java, Android Development, and Web Development.
@@ -19,8 +19,44 @@ Interested in software development and always looking for opportunities to learn
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
+
+### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,r,javascript,html,css,mysql,sqlite,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,python,r,cpp,js" />
+</p>
+
+### Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
+
+### Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
