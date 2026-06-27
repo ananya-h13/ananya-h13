@@ -34,8 +34,12 @@ Interested in software development and always looking for opportunities to learn
 <h3 align="center"> Web Development</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-FDE1B8?style=flat-square&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-BDE4FF?style=flat-square&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-FDE1B8?style=flat-square&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-BDE4FF?style=flat-square&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFF5B5?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-E5D4FF?style=flat-square&logo=bootstrap&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-CDEBFF?style=flat-square&logo=jquery&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-E8D8FF?style=flat-square&logo=php&logoColor=black"/>
 </p>
 
 <h3 align="center"> Mobile Development</h3>
