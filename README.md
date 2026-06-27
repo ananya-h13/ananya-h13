@@ -108,3 +108,21 @@ Interested in software development and always looking for opportunities to learn
 - Built a smart jacket with automatic temperature regulation.
 - Monitored ambient temperature using a DHT11 sensor.
 - Controlled heating and cooling using a Peltier module.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya-h13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=ananya-h13&theme=tokyonight&hide_border=true" />
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya-h13&theme=tokyo-night&hide_border=true" />
+</p>
