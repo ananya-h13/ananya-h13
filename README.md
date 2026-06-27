@@ -57,3 +57,60 @@ Interested in software development and always looking for opportunities to learn
 <img src="https://img.shields.io/badge/GitHub-EDEDED?style=flat-square&logo=github&logoColor=black"/>
 <img src="https://img.shields.io/badge/VS%20Code-D8D5F7?style=flat-square&logo=visualstudiocode&logoColor=black"/>
 </p>
+
+---
+
+## Featured Projects
+
+### Escape Room Challenge
+
+*Java · Android Studio · SQLite*
+
+- Puzzle-based Android application with user registration and login.
+- Three interactive challenge games with progress tracking.
+- Unlocks the final page after completing two challenges.
+- Won **🥉 3rd Prize** among 300+ teams at the university mini project expo.
+
+---
+
+### Complaint Management System
+
+*Java · JSP · Servlets · JDBC · MySQL*
+
+- Web-based complaint registration and tracking system.
+- Supports user authentication and CRUD operations.
+- Integrated MySQL database using JDBC.
+- Built using Java EE technologies.
+
+---
+
+### Interactive Memory Card Game
+
+*HTML5 · CSS3 · JavaScript · Local Storage*
+
+- Interactive memory game with dark and light theme support.
+- Tracks moves, timer, and best score.
+- Saves user preferences and recent game history.
+- Responsive interface using Local Storage.
+
+---
+
+### Smart Home Security System
+
+*Python · Raspberry Pi · OpenCV*
+
+- Raspberry Pi-based home security system with face recognition.
+- Detects unauthorized visitors using computer vision.
+- Sends SMS alerts when an unknown face is detected.
+- Provides real-time monitoring for enhanced home security.
+
+---
+
+### Smart Temperature Control Jacket
+
+*C · Arduino Nano · DHT11 · Peltier Module*
+
+- Smart wearable that automatically regulates temperature.
+- Detects surrounding temperature using a DHT11 sensor.
+- Uses a Peltier module for automatic heating and cooling.
+- Arduino Nano controls the complete temperature regulation system.
