@@ -114,18 +114,16 @@ Interested in software development and always looking for opportunities to learn
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananya-h13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananya-h13&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-h13&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ananya-h13&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-h13&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 #  Connect With Me
 
