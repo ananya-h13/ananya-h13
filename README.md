@@ -12,10 +12,10 @@ Interested in software development and always looking for opportunities to learn
 
 ## About Me
 
-- 🎓 Computer Science and Information Technology student at Presidency University, Bengaluru.
-- 💻 Interested in Java, Android Development, and Web Development.
-- 🌱 Currently learning Data Structures & Algorithms.
-- 🚀 I enjoy building projects that help me learn and improve my development skills.
+- Computer Science and Information Technology student at Presidency University, Bengaluru.
+- Interested in Java, Android Development, and Web Development.
+- Currently learning Data Structures & Algorithms.
+- I enjoy building projects that help me learn and improve my development skills.
 
 ---
 
